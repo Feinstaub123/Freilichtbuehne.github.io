@@ -2,38 +2,80 @@
     "members": [
           {
             "name": "Michael Melone",
-            "rank": "Leitung | Sanitäter",
+            "rank": "Leitung Rettungsdienst | Ausbildungsabteilung ",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#about"
         },
         {
             "name": "Luca Feinstaub",
-            "rank": "Organisatorische-Leitung",
+            "rank": "Organisatorische-Leitung Rettungsdienst | Personalabteilung Leitung",
             "highlight": true,
-            "picture": "https://cdn.discordapp.com/attachments/879580897886744607/935467114989486110/6741-1be640d30d479fd39c7c3d67682f54b3cdf7e412.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/23/6878-2323cd6df749302bc83d8955d3b9b25c10d6e2d4.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-skipes123/"
         },
         {
             "name": "Nils Lombax",
-            "rank": "Einsatzleitung Rettungsdienst | Sanitäter",
-            "highlight": false,
+            "rank": "Einsatzleitung Rettungsdienst | Personalabteilung",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/5767-6856ebdd65d7ac999e470f63a90f370a8cc278fd.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
-        },
-        {
-            "name": "Felix Shiro Eckert",
-            "rank": "Einsatzleitung Rettungsdienst | Sanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/38/6470-381dd18d716129d5ab1c6597470710479f1e7fb8.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/#about"
         },       
         {
             "name": "Marlon Brand",
-            "rank": "Notfallsanitäter ",
-            "highlight": false,
+            "rank": "Einsatzleitung Rettungsdienst | Ausbildungsabteilung Leitung",
+            "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1773-marlon/"
+        },
+        {
+            "name": "Jeremy Varox",
+            "rank": "Einsatzleitung Rettungsdienst",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/66/6461-6618f659137e790145cc6d63a462dffcd9852b4f.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-varox/"
+        },
+        {
+            "name": "Sebastian Feinstaub",
+            "rank": "Leitender Notarzt | Stellv. Personalabteilung Leitung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/0f/6682-0ff703b608862dc7aba4e344e4cf7c0b220dbbcf.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2073-opklinik/"
+        },
+        {
+            "name": "Kira Ackermann",
+            "rank": "Notarzt (Rettungsdienst) | Pesonalabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/5548-5a001c90d5f45cef6913e910c7ce388284264490.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1794-popcorn-uwu/"
+        },
+        {
+            "name": "Leon Lombax",
+            "rank": "Notarzt (Rettungsdienst) | Ausbildungsabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/82/4956-82d5d312b4f033561c7b31c737333a31da45f943.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1515-gpx-luca/"
+        },
+        {
+            "name": "Jessy Salzbergwerk",
+            "rank": "Notarzt (Rettungsdienst) | Ausbildungsabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
+        }
+        {,
+            "name": "Florian Feinstaub",
+            "rank": "Notarzt (Arzt) | Personalabteilung",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/84/6827-8413a860717a6e015331678463cd46273b03206d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2046-dernetteflo/"
+        },
+        {
+            "name": "Johny Winter",
+            "rank": "Notfallsanitäter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f9/6600-f99c30653e4b3fc8ae4e3e3c55c7bbd078fc89c6.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2132-jonny/"
         }
     ]
 }
